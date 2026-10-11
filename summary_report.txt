@@ -1,0 +1,11 @@
+DATA CLEANING & VISUALIZATION - SUMMARY REPORT
+==================================================
+
+Rows before cleaning : 296
+Rows after cleaning  : 296
+Duplicates removed   : 15
+
+Top category by revenue: Electronics
+Top region by revenue  : South
+Average order value    : 7628.72
+Average customer rating: 2.82
